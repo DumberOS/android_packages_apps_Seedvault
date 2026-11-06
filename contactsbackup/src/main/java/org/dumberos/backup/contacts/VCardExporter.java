@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.calyxos.backup.contacts;
+package org.dumberos.backup.contacts;
 
 import android.content.ContentResolver;
 import android.database.Cursor;
@@ -22,7 +22,7 @@ import static android.provider.ContactsContract.Contacts.CONTENT_MULTI_VCARD_URI
 import static android.provider.ContactsContract.Data.CONTENT_URI;
 import static android.provider.ContactsContract.Data.LOOKUP_KEY;
 import static android.provider.ContactsContract.RawContacts.ACCOUNT_TYPE;
-import static org.calyxos.backup.contacts.ContactsBackupAgent.DEBUG;
+import static org.dumberos.backup.contacts.ContactsBackupAgent.DEBUG;
 
 class VCardExporter {
 

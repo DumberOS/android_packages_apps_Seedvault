@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.calyxos.backup.contacts
+package org.dumberos.backup.contacts
 
 import android.Manifest.permission.READ_CONTACTS
 import android.Manifest.permission.WRITE_CONTACTS
@@ -18,7 +18,7 @@ import io.mockk.every
 import io.mockk.just
 import io.mockk.mockk
 import io.mockk.mockkConstructor
-import org.calyxos.backup.contacts.ContactsBackupAgent.BACKUP_FILE
+import org.dumberos.backup.contacts.ContactsBackupAgent.BACKUP_FILE
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
 import org.junit.Assert.fail

@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.calyxos.backup.contacts
+package org.dumberos.backup.contacts
 
 import android.content.ContentProviderOperation
 import android.content.ContentResolver

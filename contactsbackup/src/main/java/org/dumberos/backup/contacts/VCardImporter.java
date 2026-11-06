@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.calyxos.backup.contacts;
+package org.dumberos.backup.contacts;
 
 import android.content.ContentResolver;
 import android.util.Log;
@@ -21,7 +21,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 import static com.android.vcard.VCardConfig.VCARD_TYPE_V21_GENERIC;
-import static org.calyxos.backup.contacts.ContactsBackupAgent.DEBUG;
+import static org.dumberos.backup.contacts.ContactsBackupAgent.DEBUG;
 
 class VCardImporter implements VCardEntryHandler {
 

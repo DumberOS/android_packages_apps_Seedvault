@@ -5,7 +5,7 @@
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.calyxos.backup.contacts"
+    package="org.dumberos.backup.contacts"
     android:versionCode="34050030"
     android:versionName="14-5.3">
     <!--
